@@ -50,7 +50,7 @@ const AllOrders = () => {
        
         <div className='h-screen p-0 md:p-4 text-zinc-100 overflow-y-auto'>
           <h1 className='text-3xl md:text-5xl font-semibold text-zinc-500 mb-8'> 
-            Your Order History
+           Order History
           </h1>
           <div className='mt-4 bg-zinc-800 w-full rounded py-2 px-4 flex gap-2'>
             <div className='w-[3%]'>
